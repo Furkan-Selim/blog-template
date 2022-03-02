@@ -1,0 +1,14 @@
+.navbar {
+    opacity: 0.8;
+    border-bottom: 1px solid #fff;
+}
+
+.jumbotron {
+    padding-top: 100px;
+}
+
+.hover :hover {
+    background-color: #6B7481;
+    color: white;
+    transition: 0.3s;
+}
